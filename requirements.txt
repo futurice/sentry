@@ -1,0 +1,8 @@
+Sentry==8.21.0
+psycopg2==2.7.3.2
+python-memcached==1.58
+
+# based on https://pypi.python.org/pypi/sentry
+django-jsonfield==0.9.13
+kombu==3.0.35
+celery==3.1.18
